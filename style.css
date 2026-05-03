@@ -1,29 +1,33 @@
 html{
-	scroll-behavior: smooth
+	scroll-behavior: smooth;
 }
 
 body{
-	background-color: LavenderBlush
+	background-color: LavenderBlush;
 }
 
 h{
-	font-size:34px
-	align-items: center
-	font-weight: bold
+	font-size:34px;
+	align-items: center;
+	font-weight: bold;
 }
 
-."inner-page-links"{
-	margin-top: 100px
-	margin-bottom: 100px
-	font-size: 22px
+.inner-page-links{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-size: 22px;
 }
 
-."works-links"{
-	margin-top: 100px
-	margin-bottom: 100px
-	font-size: 25px
+.works-links{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-size: 25px;
 }
 
 .paragraph{
-	font-size: 18px
+	font-size: 18px;
+}
+
+.revised{
+	font-weight:bold;
 }
